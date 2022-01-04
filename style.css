@@ -1,3 +1,20 @@
-h2{
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 60px;
+}
+.my-name-color{
     color: red;
+}
+section{
+
+   display: flex;
+}
+.half-width{
+    width: 50%;
+    margin-left: 5%;
+}
+.half-width img {
+    width: 85%;
 }
